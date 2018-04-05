@@ -12,6 +12,7 @@
 lista* encontra_nomes(lista *lst1, lista *lst2)
 {
 	/* complexidade do algoritmo: ______________ */
+	
 
 	return NULL;
 }
