@@ -1,6 +1,6 @@
-FROM ubuntu:xenial
+FROM alpine:latest
 
-RUN apt-get update && apt-get install -y clang
+RUN apk update && apk add g++ clang
 WORKDIR /var/workspace
 
-CMD [ "bash" ]
+CMD [ "sh" ]
