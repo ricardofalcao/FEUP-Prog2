@@ -1,0 +1,6 @@
+Fazer a cama 5 0 0
+Tomar banho 15 10 0
+Lavar o carro 30 5 10
+Fazer a ficha da AP11 180 1000 14
+Ir ao ginasio 120 10 20
+Ir dormir 480 100 4000
